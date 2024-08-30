@@ -118,7 +118,7 @@ const ProductListingPage: React.FC = () => {
       <div style={{
         display: 'grid',
         gridTemplateColumns: 'repeat(4, 1fr)',
-        gap: '16px'
+        gap: '12px'
       }}>
         {currentProducts.map((product) => (
           <div key={product.id} className="border border-secondary rounded-lg overflow-hidden shadow-lg bg-white p-4">
