@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milestone-2-yosegit111/online-shop/static/css/main.153be581.css",
+    "main.js": "/milestone-2-yosegit111/online-shop/static/js/main.6b92c743.js",
+    "index.html": "/milestone-2-yosegit111/online-shop/index.html",
+    "main.153be581.css.map": "/milestone-2-yosegit111/online-shop/static/css/main.153be581.css.map",
+    "main.6b92c743.js.map": "/milestone-2-yosegit111/online-shop/static/js/main.6b92c743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153be581.css",
+    "static/js/main.6b92c743.js"
+  ]
+}
